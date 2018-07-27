@@ -1,0 +1,23 @@
+{
+  "name": "eflorea/wordpress-quick-login",
+  "description": "Quick way to login into wp-admin",
+  "version": "1.0",
+  "type": "wordpress-plugin",
+  "keywords": [
+    "wordpress",
+    "eflorea"
+  ],
+  "homepage": "https://github.com/eflorea/wordpress-quick-login",
+  "license": ["GPL-2.0-only"],
+  "authors": [
+    {
+      "name": "Eduard Florea",
+      "homepage": "https://eduardflorea.com/"
+    }
+  ],
+  "autoload": {
+    "files": [
+      "wordpress-quick-login.php"
+    ]
+  }
+}
